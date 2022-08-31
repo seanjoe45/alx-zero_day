@@ -1,2 +1,2 @@
 my first reame
-goog programmer
+good programmer
